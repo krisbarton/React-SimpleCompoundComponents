@@ -1,0 +1,29 @@
+
+.features {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin: 3rem auto;
+    max-width: 800px;
+    width: 100%;
+
+    &--left {
+        flex-direction: row;
+    }
+
+    &--right {
+        flex-direction: row-reverse;
+    }
+
+    img {
+        height: auto;
+        max-width: 300px;
+        width: auto;
+    }
+
+    &__text {
+        box-sizing: border-box;
+        flex-basis: calc(100% - 320px);
+    }
+
+}
