@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "img": "https://www.thatcocktail.com/wp-content/uploads/2019/08/moscow-mule-recipe-1.jpeg",
+        "alt": "How to Make a Moscow Mule",
+        "title": "How to Make a Moscow Mule",
+        "text": "Looking for the perfect Moscow Mule recipe? Don’t worry, I’ve got ya covered!",
+        "alignment": "left"
+    },
+    {
+        "id": 2,
+        "img": "https://www.thatcocktail.com/wp-content/uploads/2020/02/how-to-make-an-espresso-martini-1.png",
+        "alt": "How to Make an Expresso Martini",
+        "title": "How to Make an Expresso Martini",
+        "text": "  Wanna know how to make an Espresso Martini at home? A good Espresso Martini is fierce, delicious and a perfect pep on a night out drinking. ",
+        "alignment": "right"
+    },
+    {
+        "id": 3,
+        "img": "https://www.thatcocktail.com/wp-content/uploads/2020/03/the-best-vodka-for-cocktails.png",
+        "alt": "The Best Vodka for Cocktails",
+        "title": "The Best Vodka for Cocktails",
+        "text": "Vodka is a fantastic base for cocktails. Why? Because it has a neutral flavour that mixes well with other flavours - it’s the Chameleon of the cocktail world. But what is the best Vodka for cocktails?",
+        "alignment": "left"
+    },
+    {
+        "id": 4,
+        "img": "https://www.thatcocktail.com/wp-content/uploads/2020/01/how-to-make-an-old-fashioned-1.png",
+        "alt": "How to Make an Old Fashioned",
+        "title": "How to Make an Old Fashioned",
+        "text": "The recipe for the Old Fashioned is a simple, but let me tell you: the taste is far from simple. It’s a classic cocktail that’s withstood the test of time for a reason – you have to try it. Let’s explore the Old Fashioned cocktail, its history and the recipe in this article.",
+        "alignment": "right"
+    }
+]
